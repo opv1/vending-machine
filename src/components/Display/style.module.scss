@@ -1,0 +1,22 @@
+.display {
+  display: flex;
+  align-items: flex-start;
+
+  padding: 30px;
+  border-radius: 2px;
+  background-color: #1e1e1e;
+  box-shadow: inset 0 0 0.5em #000;
+  height: 80%;
+  max-width: 1230px;
+  width: 100%;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

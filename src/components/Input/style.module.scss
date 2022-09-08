@@ -1,0 +1,9 @@
+.input {
+  background-color: white;
+  padding: 20px;
+  border: none;
+
+  &:disabled {
+    background-color: rgb(168, 165, 165);
+  }
+}
