@@ -1,9 +1,9 @@
 .input {
-  background-color: white;
-  padding: 20px;
   border: none;
+  padding: 20px;
+  background-color: white;
 
   &:disabled {
-    background-color: rgb(168, 165, 165);
+    background-color: rgb(168 165 165);
   }
 }

@@ -3,9 +3,9 @@
   display: flex;
   flex-direction: column;
   padding: 10px;
-  background-color: #fff;
-  max-width: 170px;
   width: 100%;
+  max-width: 170px;
+  background-color: #fff;
 
   &_access {
     background-color: aqua;
@@ -29,6 +29,6 @@
 
 .id {
   position: absolute;
-  bottom: 10px;
   right: 10px;
+  bottom: 10px;
 }
