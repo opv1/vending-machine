@@ -5,3 +5,10 @@
   height: 100%;
   gap: 30px;
 }
+
+@media screen and (max-width: 900px) {
+  .app {
+    flex-direction: column;
+    height: initial;
+  }
+}

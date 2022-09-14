@@ -16,3 +16,10 @@
   margin-top: 20px;
   gap: 20px;
 }
+
+@media screen and (max-width: 900px) {
+  .dashboard {
+    height: initial;
+    max-width: initial;
+  }
+}
